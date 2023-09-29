@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hello there 👋
 
+## Personal Projects
+### [snake_nn_ai (WIP)](https://github.com/fjnp96/snake_nn_ai)
+It's my second attempt at teaching a Neural Network to play the Snake Game. This project is coded in Python and employs a Genetic Algorithm that includes selection, crossover, and mutation phases.
 <!--
 **fjnp96/fjnp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
